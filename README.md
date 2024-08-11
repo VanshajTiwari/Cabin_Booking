@@ -1,5 +1,4 @@
-deployed Link :- [https://wildoasis-8v8sx0qbj-vanshajtiwaris-projects.vercel.app/login](https://wildoasis-lxueujbst-vanshajtiwaris-projects.vercel.app/login)
-
+deployed Link :- https://wildoasis-vanshajtiwaris-projects.vercel.app/
 ## WILD OASIS
 Built with a cutting-edge technology stack: HTML, CSS, JavaScript, React.js, Redux, React Query, Styled Components, and Supabase.
 - Wild Oasis offers an engaging cabin-booking experience where users can effortlessly search and book cabins tailored to their needs.
