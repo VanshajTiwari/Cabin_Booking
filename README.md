@@ -1,4 +1,4 @@
-deployed Link :- https://wildoasis-8v8sx0qbj-vanshajtiwaris-projects.vercel.app/login
+deployed Link :- [https://wildoasis-8v8sx0qbj-vanshajtiwaris-projects.vercel.app/login](https://wildoasis-lxueujbst-vanshajtiwaris-projects.vercel.app/login)
 
 ## WILD OASIS
 Built with a cutting-edge technology stack: HTML, CSS, JavaScript, React.js, Redux, React Query, Styled Components, and Supabase.
