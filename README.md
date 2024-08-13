@@ -1,4 +1,4 @@
-deployed Link :- https://cabinbookingigi.netlify.app/login
+deployed Link :- [https://cabinbookingigi.netlify.app](https://cabinbookingigi.netlify.app/)
 ## WILD OASIS
 Built with a cutting-edge technology stack: HTML, CSS, JavaScript, React.js, Redux, React Query, Styled Components, and Supabase.
 - Wild Oasis offers an engaging cabin-booking experience where users can effortlessly search and book cabins tailored to their needs.
